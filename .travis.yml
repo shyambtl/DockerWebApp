@@ -3,7 +3,6 @@ language: csharp
 solution: DockerWebApp.sln
 dotnet: 2.1.200
 script:
-  - dotnet restore
   - dotnet build ./DockerWebApp/
 deploy:
   provider: elasticbeanstalk
