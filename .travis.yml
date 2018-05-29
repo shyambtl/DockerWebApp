@@ -1,0 +1,20 @@
+cache: bundler
+language: csharp
+solution: DockerWebApp.sln
+dotnet: 2.1.200
+script:
+  - dotnet restore
+  - dotnet build ./DockerWebApp/
+deploy:
+  provider: elasticbeanstalk
+  access_key_id: AKIAIGRNKQOQS54BI2LA
+  secret_access_key:
+    secure: "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"
+  region: "us-east-1"  
+  app: "TestApp"
+  env: "Testapp-env"
+  bucket_name: "btldemotestapp.s3-website-us-east-1.amazonaws.com"
+deploy.skip_cleanup: true
+addons:
+  artifacts: true
+  debug: true
