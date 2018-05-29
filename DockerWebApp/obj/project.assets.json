@@ -12662,30 +12662,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ashit.BTL\\.nuget\\packages\\": {},
+    "C:\\Users\\shyam.BTL\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ashit.btl\\source\\repos\\DockerWebApp\\DockerWebApp\\DockerWebApp.csproj",
+      "projectUniqueName": "E:\\Projects\\Travis\\DockerWebApp\\DockerWebApp\\DockerWebApp.csproj",
       "projectName": "DockerWebApp",
-      "projectPath": "c:\\users\\ashit.btl\\source\\repos\\DockerWebApp\\DockerWebApp\\DockerWebApp.csproj",
-      "packagesPath": "C:\\Users\\Ashit.BTL\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ashit.btl\\source\\repos\\DockerWebApp\\DockerWebApp\\obj\\",
+      "projectPath": "E:\\Projects\\Travis\\DockerWebApp\\DockerWebApp\\DockerWebApp.csproj",
+      "packagesPath": "C:\\Users\\shyam.BTL\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\Travis\\DockerWebApp\\DockerWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ashit.BTL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\shyam.BTL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.6.21:83/api/v2/": {},
         "https://api.nuget.org/v3/index.json": {}
       },

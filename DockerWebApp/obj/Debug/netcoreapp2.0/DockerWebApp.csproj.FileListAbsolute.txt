@@ -1,0 +1,11 @@
+E:\Projects\Travis\DockerWebApp\DockerWebApp\bin\Debug\netcoreapp2.0\DockerWebApp.deps.json
+E:\Projects\Travis\DockerWebApp\DockerWebApp\bin\Debug\netcoreapp2.0\DockerWebApp.runtimeconfig.json
+E:\Projects\Travis\DockerWebApp\DockerWebApp\bin\Debug\netcoreapp2.0\DockerWebApp.runtimeconfig.dev.json
+E:\Projects\Travis\DockerWebApp\DockerWebApp\bin\Debug\netcoreapp2.0\DockerWebApp.dll
+E:\Projects\Travis\DockerWebApp\DockerWebApp\bin\Debug\netcoreapp2.0\DockerWebApp.pdb
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.csprojAssemblyReference.cache
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.csproj.CoreCompileInputs.cache
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.AssemblyInfoInputs.cache
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.AssemblyInfo.cs
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.dll
+E:\Projects\Travis\DockerWebApp\DockerWebApp\obj\Debug\netcoreapp2.0\DockerWebApp.pdb
