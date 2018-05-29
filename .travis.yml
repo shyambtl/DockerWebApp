@@ -15,6 +15,3 @@ deploy:
   env: "Testapp-env"
   bucket_name: "btldemotestapp.s3-website-us-east-1.amazonaws.com"
 deploy.skip_cleanup: true
-addons:
-  artifacts: true
-  debug: true
