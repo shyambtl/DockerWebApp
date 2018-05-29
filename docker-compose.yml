@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockerwebapp:
+    image: ${DOCKER_REGISTRY}dockerwebapp
+    build:
+      context: .
+      dockerfile: DockerWebApp\Dockerfile
